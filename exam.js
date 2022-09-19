@@ -111,4 +111,4 @@ function sum(p, r, callback) {
 function mul() {
     console.log("king kohli")
 }
-sum(6, 9, mul)
+sum(6, 7, mul);
